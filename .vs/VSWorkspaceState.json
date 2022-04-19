@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\org",
+    "\\org\\med",
+    "\\org\\med\\tpl",
+    "\\org\\med\\tpl\\palette",
+    "\\org\\med\\tpl\\palette\\js"
   ],
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }
